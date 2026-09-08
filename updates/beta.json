@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "product": "Survivor Signal Z",
+  "channel": "beta",
+  "sequence": 2,
+  "version": "1.0.0-rc.24",
+  "artifact": {
+    "file": "Survivor-Signal-Z-1.0.0-rc.24-ONLINE-UPDATE-TARGET.zip",
+    "size": 11142714,
+    "sha256": "78bd2d4dfb39a9cce5073748c687009ea20f256c888eb857710aa63a6e7b2659",
+    "url": "https://github.com/SurvivorSignalZ/Survivor-Signal-Z-Releases/releases/download/v1.0.0-rc.24-test/Survivor-Signal-Z-1.0.0-rc.24-ONLINE-UPDATE-TARGET.zip"
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "486627fdae593f0cf9d499b0",
+    "value": "TF9WZ27ZfI4gTGEQMuehXL1aYmbwJ4ShDD5bEIu0A0tu+wzB0yh4XuAwM1CA1rWrnrmwYb6ucyPdA3xioQBSDQ=="
+  }
+}
