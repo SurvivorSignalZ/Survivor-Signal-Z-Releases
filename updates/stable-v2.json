@@ -2,17 +2,17 @@
   "schema": 1,
   "product": "Survivor Signal Z",
   "channel": "stable",
-  "sequence": 5,
-  "version": "1.0.8",
+  "sequence": 6,
+  "version": "1.0.9",
   "artifact": {
-    "file": "Survivor-Signal-Z-1.0.8-UPDATE.zip",
-    "size": 13190064,
-    "sha256": "c4c0f27534b3676c9fa1154ca933e387d126451b29ba790fff0231da0fbfba94",
-    "url": "https://github.com/SurvivorSignalZ/Survivor-Signal-Z-Releases/releases/download/v1.0.8/Survivor-Signal-Z-1.0.8-UPDATE.zip"
+    "file": "Survivor-Signal-Z-1.0.9-UPDATE.zip",
+    "size": 13185825,
+    "sha256": "8e79032f72e0c2fcaa5ee3831547e82f396e6d537d793c2e29d1fcc17889cbf7",
+    "url": "https://github.com/SurvivorSignalZ/Survivor-Signal-Z-Releases/releases/download/v1.0.9/Survivor-Signal-Z-1.0.9-UPDATE.zip"
   },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "2df29a8428aad2f5d1e33f96",
-    "value": "fOvlphlN+kquJnZ23UN6PAyEU+War/qoJ3jAbCPPOD95nrr/tcFx+MG0pfsqUb/xNWPXUGBfpv+OcVLcz4a1Cw=="
+    "value": "/KjOfd/iMliy5dVNZBjTp6mVAEHDUzHTU9wLDnG1BY9QyKFbmD3y6RVcMssmFEC9N88hPS3kiGRM+PbITShFBw=="
   }
 }
